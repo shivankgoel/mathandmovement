@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "801352089269",
+    "firebase_url": "https://emily-grace-app.firebaseio.com",
+    "project_id": "emily-grace-app",
+    "storage_bucket": "emily-grace-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801352089269:android:345476abc72185719ec8fc",
+        "android_client_info": {
+          "package_name": "com.mathandmovement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801352089269-65m3q0asggdrqk03n2qdfejjdrkhl8m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathandmovement",
+            "certificate_hash": "e92516063e0f789a5b2f15330ed0934a9427ed0e"
+          }
+        },
+        {
+          "client_id": "801352089269-opb5v9q3g6tcssgggqjlfk5l3rdgnsf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathandmovement",
+            "certificate_hash": "2f5786b10e63fdb864f62e5b77ace8ba3a1c7b32"
+          }
+        },
+        {
+          "client_id": "801352089269-jufv1jvckvt3vke2vvhssil3j66e2908.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkfIXKb5givIjLKtPREtogxqDs51b3bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801352089269-jufv1jvckvt3vke2vvhssil3j66e2908.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
